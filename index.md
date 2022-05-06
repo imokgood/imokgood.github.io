@@ -1,12 +1,23 @@
-## 自言自语
+## 低喃 轻语 心静
 
-You can use the [editor on GitHub](https://github.com/imokgood/imokgood.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2022.5.6 
 
-### 2022.5.6 失意
+般若波罗蜜多心经
 
-昨天被廉刷了，骗我去报了一个不想要的岗位，今天去找李某庭还没找到，这让我很担心，万一李去集团公司把人事问题请示拍板了，那我找人说情费的劲就白费了！由此可见，领导没有靠得住的！
+观自在菩萨 行深般若波罗蜜多时 照见五蕴皆空 度一切苦厄
+舍利子 色不异空 空不异色 色既是空 空既是色 受想行识 亦复如是
+舍利子 是诸法空想 不生不灭 不垢不净 不增不减
+是故 空中无色 无受想行识 无眼耳鼻舌身意 无色深香味触法
+无眼界 乃至无意识界 无无明 亦无无明尽 乃至无老死 亦无老死尽
+无苦集灭道 无智亦无得 以无所得故
+菩提萨埵 依般若波罗蜜多故 心无挂碍 无挂碍故 无有恐怖
+远离颠倒梦想 究竟涅槃
+三世诸佛 依般若波罗蜜多故 得阿耨多罗三藐三菩提
+故知般若波罗蜜多是大神咒 是大明咒 是无上咒 是无等等咒 能除一切苦 真实不虚
+故说般若波罗蜜多咒 即说咒曰
+揭谛揭谛 波罗揭谛 波罗僧揭谛
+菩提萨婆诃
 
 ```markdown
 Syntax highlighted code block
