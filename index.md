@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## 自言自语
 
 You can use the [editor on GitHub](https://github.com/imokgood/imokgood.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 2022.5.6 失意
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+昨天被廉刷了，骗我去报了一个不想要的岗位，今天去找李某庭还没找到，这让我很担心，万一李去集团公司把人事问题请示拍板了，那我找人说情费的劲就白费了！由此可见，领导没有靠得住的！
 
 ```markdown
 Syntax highlighted code block
